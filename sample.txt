@@ -1,0 +1,24 @@
+# Git Flow Sample Project
+# Created: 2026-02-25
+
+## Members
+- Alice Nguyen   | alice@example.com   | Developer
+- Bob Tran       | bob@example.com     | Developer
+- Carol Le       | carol@example.com   | Reviewer
+- David Pham     | david@example.com   | DevOps
+
+## Tasks
+- [ ] Feature: User authentication
+- [ ] Feature: Dashboard UI
+- [ ] Bugfix: Login redirect issue
+- [ ] Release: v1.0.0 preparation
+- [ ] Hotfix: Critical security patch
+
+## Notes
+This file is used for practicing Git Flow.
+Branches:
+  - main        → production-ready code
+  - develop     → integration branch
+  - feature/*   → new features
+  - release/*   → release preparation
+  - hotfix/*    → urgent production fixes
