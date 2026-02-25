@@ -27,3 +27,4 @@ Branches:
 ## Config
 - Database: PostgreSQL
 - Port: 5432
+- Cache: Redis 7.x
