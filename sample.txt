@@ -23,3 +23,7 @@ Branches:
   - release/*   → release preparation
   - hotfix/*    → urgent production fixes
 # Develop branch initialized
+
+## Config
+- Database: PostgreSQL
+- Port: 5432
