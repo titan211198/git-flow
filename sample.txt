@@ -29,3 +29,4 @@ Branches:
 - Port: 5432
 - Cache: Redis 7.x
 - Auth: JWT RS256
+- Logger: Winston + correlation-id
