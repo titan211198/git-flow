@@ -1,0 +1,12 @@
+# User Login Module
+
+## Endpoints
+- POST /api/auth/login
+- POST /api/auth/logout
+- GET  /api/auth/me
+
+## Flow
+1. User gửi email + password
+2. Server validate credentials
+3. Trả về JWT token (expire: 24h)
+4. Client lưu token vào localStorage
