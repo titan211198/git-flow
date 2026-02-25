@@ -28,3 +28,4 @@ Branches:
 - Database: PostgreSQL
 - Port: 5432
 - Cache: Redis 7.x
+- Auth: JWT RS256
